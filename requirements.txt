@@ -1,0 +1,8 @@
+streamlit
+selenium
+webdriver_manager
+pandas
+yfinance
+dhanhq
+lightweight-charts
+pandas
