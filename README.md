@@ -6,7 +6,7 @@ A real-time stock screening and auto-trading platform built with **Python**, **S
 
 ## 🎥 Demo Video
 
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?logo=youtube)](https://github.com/aryanV1999/ScanTrade-Real-Time-Stock-Screener/blob/main/Demo.mp4)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?logo=youtube)](https://drive.google.com/file/d/13_TokRslmJLDR2cNBBZ-ky9T5s3Eiwuy/view?usp=sharing)
 
 ---
 
